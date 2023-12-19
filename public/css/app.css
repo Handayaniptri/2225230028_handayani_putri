@@ -1,0 +1,12 @@
+body    {
+  background-image: url("bagroun.jpg");
+  font-family: serif;
+  margin: 90px auto;
+      width: 1050px;
+      padding: 70px;
+}
+.card {
+  color: rgb(201, 126, 151);
+  background: rgb(255, 255, 255);
+  border-radius: 25px;
+}

@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(255, 253, 127, 0.776);
+    font-family: serif;
+    margin: 90px auto;
+        width: 900px;
+        padding: 70px;
+}
+.card {
+    color: rgb(rgb(150, 65, 65), rgb(51, 140, 51), #41417a);
+    background: rgb(150, 65, 65);
+    border-radius: 20px;
+}
